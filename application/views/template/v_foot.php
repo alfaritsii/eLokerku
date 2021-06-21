@@ -1,7 +1,7 @@
 <footer>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <nav class="nav">
-            <a href="<?= base_url()?>/Main/home" class="nav__link">
+            <a href="<?= base_url()?>Main/index" class="nav__link">
                 <i class="material-icons nav__icon">dashboard</i>
                 <span class="nav__text">Home</span>
             </a>
